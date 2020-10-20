@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 0;
+}
+
+.menu {
+	background-color: #5E0A17;
+}
+
+.opciones {
+	padding: 12px;
+	margin: 0;
+}
+
+.opciones li {
+	display: inline;
+	margin: 0 3%;
+}
+
+.opciones li a {
+	text-decoration: none;
+	font-size: 1.2rem;
+	color: white;
+}
+
+.bloque {
+	background-image: url("images/Fabrica.jpg");
+	background-repeat: no-repeat;
+	background-size: auto auto;
+}
+
+.contenido {
+	background-color: white;
+	width: 60%;
+	padding: 42px;
+}
+
+.textoNegro {
+	background-color: rgba(0,0,0,0.60);
+	border-radius: 15px;
+}
+
+.textoNegro h5, .textoNegro p{
+	color: white;
+	margin: 0 12px;
+}
+
+.formulario {
+	background-image: url("images/modeloS.jpg");
+	background-size: 100% auto;
+	padding: 24px;
+}
+
+.formulario form{
+	padding: 2%;
+	background-color: rgba(0,0,0,0.7);
+	border-radius: 5px;
+	width: 50%;
+	color: white;
+}
+
+.formulario form h5 {
+	margin-top: 24px;
+}
+
+.formulario form input {
+	border-radius: 5px;
+	width: 100%;
+}
+
+.footer {
+	background-color: #EDF0F3;
+}
+
+.op_footer li a{
+	text-decoration: none;
+	font-size: 1.4rem;
+	color: black;
+}
