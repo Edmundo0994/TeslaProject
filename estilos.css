@@ -29,6 +29,7 @@ body{
 	background-image: url("images/Fabrica.jpg");
 	background-repeat: no-repeat;
 	background-size: auto auto;
+	background-position: right;
 }
 
 .contenido {
@@ -49,7 +50,8 @@ body{
 
 .formulario {
 	background-image: url("images/modeloS.jpg");
-	background-size: 100% auto;
+	background-repeat: no-repeat;
+	background-position: center;
 	padding: 24px;
 }
 
